@@ -1,0 +1,21 @@
+#card-2{
+    width:10%px !important;
+    padding-top: 10%;
+  }
+
+.mycard{
+    width: 80%;
+    margin: 3%;
+}
+
+.myheader{
+    padding: 2%;
+    text-align: left;
+    align-items: 2%;   
+}
+
+/*.border{
+    width: 10em !important;
+    height: 10em !important;
+
+}*/
